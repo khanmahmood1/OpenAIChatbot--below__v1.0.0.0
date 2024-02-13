@@ -1,8 +1,7 @@
 # OpenAI Chatbot
 
 This project implements a chatbot powered by the OpenAI API. It utilizes the GPT (Generative Pre-trained Transformer) model to generate conversational responses based on user inputs. <br>
-This is mainly one project and it is modified with time respetive to their name and last one "Chatbot4" is latest updation version of this project <br>
-Contribute in it if their is any error in file
+This is mainly one project and it is modified with time respetive to their name and last one "Chatbot4" is latest updation version of this project contribute in this if their is any error or bug in project file
 
 ## Getting Started
 

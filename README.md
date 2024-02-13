@@ -2,6 +2,7 @@
 
 This project implements a chatbot powered by the OpenAI API. It utilizes the GPT (Generative Pre-trained Transformer) model to generate conversational responses based on user inputs.
 
+
 ## Getting Started
 
 To use this chatbot, follow these steps:
@@ -12,7 +13,7 @@ To use this chatbot, follow these steps:
 
 3. **Set Up Your API Key**: Once you have your API key, set it as an environment variable named `OPENAI_API_KEY`.
 
-##Documentation
+## Documentation
 
 1. I am providing [OpenAI Python API library](https://openai.com/api/) and [OpenAI API- v1.0.0 Migration Guide #742](https://github.com/openai/openai-python/discussions/742) for any query related to the project.
 2. If there is any error in the code just clone the code in your local studio(VS code) and debug it or directly fork the code I will accept the pull request.
